@@ -68,7 +68,7 @@ def main():
             break
 
         else:
-            print(print("manualかautoを入力してください。"))
+            print("manualかautoを入力してください。")
 
     #プレイヤーごとにサイコロの出目リストを作成
     player_rolls = roll_dice_list(player_dice_count, "プレイヤー")
